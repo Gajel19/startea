@@ -1,0 +1,2 @@
+# startea
+testnet_tea
